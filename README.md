@@ -2,7 +2,7 @@
 
 This repository contains MATLAB files for image deblurring and Quantitative Susceptibility Mapping used in the review paper:
 
-J.Chung, L.Ruthotto, Computational Methods for Image Reconstruction, NMR Biomedicine Special Issue: QSM, in revision, 2016
+J.Chung, L.Ruthotto, [Computational Methods for Image Reconstruction](http://dx.doi.org/10.1002/nbm.3545), NMR Biomedicine Special Issue: QSM, 2016
 
 # Requirements
 
